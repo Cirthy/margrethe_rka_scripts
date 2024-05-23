@@ -1,0 +1,3 @@
+[submodule "margrethe_tables/DahuHunting"]
+	path = margrethe_tables/DahuHunting
+	url = git@github.com:88abaa99/DahuHunting.git
